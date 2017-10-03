@@ -1,10 +1,10 @@
 exports.dbConfig = {
-    user: "sa",
-    password: "zy01sy?",
-    server: "198.1.1.234",
+    user: "",
+    password: "",
+    server: "",
     port: 1433,
-    database: "EDIDATA1"
+    database: ""
 };
 
 exports.webPort = 5001;
-exports.secert = "GVhBE1t9WY";
+exports.secert = "";
